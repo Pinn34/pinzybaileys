@@ -1,4 +1,4 @@
-# pinzybaileys
+# WhatsApp Baileys
 
 <p align="center">
   <img src="https://files.catbox.moe/srgbna.png" alt="Thumbnail" />
@@ -11,3 +11,4 @@ Actively developed and maintained, baileys continuously receives updates to enha
 This library is highly suitable for building business bots, chat automation systems, customer service solutions, and various other communication automation applications that require high stability and comprehensive features. With a lightweight and modular design, baileys is easy to integrate into different systems and platforms.
 
 ---
+
