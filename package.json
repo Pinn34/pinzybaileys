@@ -1,5 +1,5 @@
 {
-  "name": "sh3nnmine",
+  "name": "pinnnnzy",
   "version": "6.7.4",
   "description": "WhatsApp API",
   "keywords": [
@@ -17,7 +17,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Pinn34",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
