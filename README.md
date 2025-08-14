@@ -12,3 +12,13 @@ This library is highly suitable for building business bots, chat automation syst
 
 ---
 
+- # Baileys - WhatsApp Web API for Node.js
+- Simple WhatsApp Web API for sending/receiving messages.
++ # Bails - WhatsApp Web API for Node.js
++ Fork dari Baileys dengan modifikasi fungsi chat & grup.
+
+- npm install @adiwajshing/baileys
++ npm install bails
+
+- Lihat dokumentasi di https://github.com/adiwajshing/Baileys
++ Dokumentasi: https://github.com/<user>/Bails
